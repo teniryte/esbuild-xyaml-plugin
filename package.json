@@ -1,6 +1,6 @@
 {
   "name": "esbuild-xyaml-plugin",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "main": "./lib/index.js",
   "description": "esbuild xyaml plugin",
   "keywords": [],
